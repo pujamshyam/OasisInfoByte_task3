@@ -1,2 +1,2 @@
-# oibsip_task2
+# OasisInfoByte_task3
 ## Number Guessing Game
